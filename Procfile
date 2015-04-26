@@ -1,1 +1,1 @@
-mainbot: ruby bot.rb
+console: ruby bot.rb
